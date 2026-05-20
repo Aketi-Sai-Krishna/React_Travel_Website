@@ -1,70 +1,79 @@
-# Getting Started with Create React App
+### React_Travel_Website
+A polished travel-focused frontend application built with React and Create React App. This project emphasizes reusable components, page-based routing, visual destination storytelling, and a clean landing experience for showcasing trips, services, and contact interactions.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Live Demo
+🔗 https://AketiSaiKrishna.github.io/Travel_website/#/home
 
-## Available Scripts
+### Features
+- Responsive multi-page travel landing site
+- React Router navigation for Home, About, Services, Contact
+- Hero banner with immersive travel imagery
+- Destination showcase section
+- Trip highlights and service overview
+- Contact form with page layout
+- Reusable component architecture
+- Navbar and footer across pages
+- Static deployment-ready build
 
-In the project directory, you can run:
+### Tech Stack
+Frontend
+- React
+- Create React App
+- React Router DOM
 
-### `npm start`
+Styling
+- CSS
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Assets
+- Local image-based hero and destination visuals
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Deployment
+- GitHub Pages
 
-### `npm test`
+### Project Goal
+The goal of this project is to build a visually engaging travel website frontend using modern React page structure and reusable UI components. It demonstrates frontend patterns for landing pages, route-driven content, and responsive travel experiences.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+This project is part of a journey toward becoming a frontend engineer focused on polished user experiences and maintainable React applications.
 
-### `npm run build`
+### Folder Structure
+src/
+├── Assets/
+├── Components/
+├── pages/
+├── App.js
+├── index.js
+├── App.css
+└── index.css
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Installation
+Clone the repository:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+git clone https://github.com/AketiSaiKrishna/Travel_website.git
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Install dependencies:
 
-### `npm run eject`
+npm install
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Start development server:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+npm start
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Future Improvements
+- Dynamic destination filtering
+- Real booking flow and reservation system
+- Enhanced mobile navigation and animations
+- Form validation and backend API integration
+- Dark mode and theme support
+- Interactive map or itinerary planner
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Key Learnings
+- Building React page routing with React Router
+- Organizing reusable UI components
+- Creating a travel landing page experience
+- Structuring a small React app for maintainability
+- Integrating routes, forms, and layout components
 
-## Learn More
+### Author
+AKETI SAI KRISHNA
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Frontend Engineer focused on scalable React applications, user-centered travel experiences, and modern frontend systems.
