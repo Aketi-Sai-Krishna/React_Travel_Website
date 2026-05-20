@@ -1,24 +1,4 @@
-# React_Travel_Website
-Gathering project details from package metadata and docs.
-
-Read [](file:///d%3A/Travel_website_main/package.json)
-
-Read [](file:///d%3A/Travel_website_main/README.md)
-
-Reviewing app structure and routing to capture accurate project scope.
-
-Read [](file:///d%3A/Travel_website_main/src/App.js)
-
-Read [](file:///d%3A/Travel_website_main/src/pages/About.js)
-
-Read [](file:///d%3A/Travel_website_main/src/pages/Contact.js)
-
-Read [](file:///d%3A/Travel_website_main/src/pages/Service.js)
-
-Read [](file:///d%3A/Travel_website_main/src/pages/Home.js)
-
-## Travel Website
-
+### React_Travel_Website
 A polished travel-focused frontend application built with React and Create React App. This project emphasizes reusable components, page-based routing, visual destination storytelling, and a clean landing experience for showcasing trips, services, and contact interactions.
 
 ### Live Demo
