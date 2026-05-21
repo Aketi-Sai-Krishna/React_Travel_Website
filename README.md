@@ -1,78 +1,89 @@
-### React_Travel_Website
-A polished travel-focused frontend application built with React and Create React App. This project emphasizes reusable components, page-based routing, visual destination storytelling, and a clean landing experience for showcasing trips, services, and contact interactions.
+### Travel Website Project
+
+A modern travel website frontend built with React and React Router. This single-page application uses reusable components, image-driven hero and destination sections, and page routing to create a polished travel landing experience.
 
 ### Live Demo
-🔗 https://AketiSaiKrishna.github.io/Travel_website/#/home
+- 🔗 Vercel Link : https://react-travel-website-nu.vercel.app/
 
 ### Features
-- Responsive multi-page travel landing site
-- React Router navigation for Home, About, Services, Contact
-- Hero banner with immersive travel imagery
-- Destination showcase section
-- Trip highlights and service overview
-- Contact form with page layout
-- Reusable component architecture
-- Navbar and footer across pages
-- Static deployment-ready build
+- SPA routing with `react-router-dom`
+- Responsive navigation with mobile hamburger menu
+- Hero landing section with background image and CTA
+- Popular Destinations showcase
+- Recent Trips gallery
+- About, Services, and Contact pages
+- Contact form for traveler inquiries
+- Reusable component-based layout
+- CSS-driven styling and visual imagery
+- Image asset handling for destination previews
 
 ### Tech Stack
+
 Frontend
 - React
+- React Router
 - Create React App
-- React Router DOM
 
 Styling
 - CSS
 
 Assets
-- Local image-based hero and destination visuals
+- Local image imports
+- Component-driven hero and gallery visuals
 
 Deployment
-- GitHub Pages
+- deployed in vercel
 
 ### Project Goal
-The goal of this project is to build a visually engaging travel website frontend using modern React page structure and reusable UI components. It demonstrates frontend patterns for landing pages, route-driven content, and responsive travel experiences.
 
-This project is part of a journey toward becoming a frontend engineer focused on polished user experiences and maintainable React applications.
+The goal of this project is to build a travel landing page experience that demonstrates clean React architecture, reusable UI sections, and a navigable multi-page flow using React Router.
+
+This project showcases how to structure a travel website frontend with clear page separation and reusable visual components.
 
 ### Folder Structure
 src/
-├── Assets/
-├── Components/
-├── pages/
-├── App.js
-├── index.js
-├── App.css
-└── index.css
+- App.js
+- `App.css`
+- `index.js`
+- `Assets/`
+- `Components/`
+- `pages/`
 
 ### Installation
+
 Clone the repository:
 
-git clone https://github.com/AketiSaiKrishna/Travel_website.git
+```bash
+git clone https://github.com/your-username/Travel_website_main.git
+```
 
 Install dependencies:
 
+```bash
 npm install
+```
 
 Start development server:
 
+```bash
 npm start
+```
 
 ### Future Improvements
-- Dynamic destination filtering
-- Real booking flow and reservation system
-- Enhanced mobile navigation and animations
-- Form validation and backend API integration
-- Dark mode and theme support
-- Interactive map or itinerary planner
+- Add real travel booking flow
+- Connect to backend API for destinations
+- Add search and filters for trips
+- Improve mobile responsiveness and animations
+- Add loading states and form validation
+- Add unit and integration testing
 
 ### Key Learnings
-- Building React page routing with React Router
-- Organizing reusable UI components
-- Creating a travel landing page experience
-- Structuring a small React app for maintainability
-- Integrating routes, forms, and layout components
-
+- Building a React SPA with React Router
+- Structuring reusable page and layout components
+- Implementing responsive navigation
+- Working with image assets in React
+- Composing landing page sections for travel UX
+- 
 ### Author
 AKETI SAI KRISHNA
 
